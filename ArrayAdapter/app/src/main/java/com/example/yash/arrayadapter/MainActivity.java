@@ -17,4 +17,11 @@ public class MainActivity extends AppCompatActivity {
         ft.replace(R.id.activity_main,blankFragment);
         ft.commit();
     }
+
+    private void testdata(){
+        int i=5;
+
+        int i1 = 1 + i;
+
+    }
 }
